@@ -8,11 +8,3 @@ echo "Welcome you have selected $NAME for the agreement<br>";
 
 ?>
 
-<html>
-<body>
-
-
-
-</body>
-</html>
-
